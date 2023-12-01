@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/iamrohitjha" target="blank"><img src="https://img.shields.io/twitter/follow/iamrohitjha?logo=twitter&style=for-the-badge" alt="iamrohitjha" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [lunarhalf.github.io](lunarhalf.github.io)
+- 👨‍💻 All of my projects are available at [lunarhalf.github.io](https://lunarhalf.vercel.app/)
 
 - 📝 I regularly write articles on [geekstad.tech.blog](geekstad.tech.blog)
 
