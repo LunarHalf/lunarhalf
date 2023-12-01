@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunarhalf" alt="lunarhalf" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/iamrohitjha" target="blank"><img src="https://img.shields.io/twitter/follow/iamrohitjha?logo=twitter&style=for-the-badge" alt="iamrohitjha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lhrhit" target="blank"><img src="https://img.shields.io/twitter/follow/iamrohitjha?logo=twitter&style=for-the-badge" alt="lhrhit" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [lunarhalf.vercel.app](https://lunarhalf.vercel.app/)
 
