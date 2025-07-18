@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lunarhalf" alt="lunarhalf" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/felttouh" target="blank"><img src="https://img.shields.io/twitter/follow/felttouh?logo=twitter&style=for-the-badge" alt="felttouh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/felttouh" target="blank"><img src="https://img.shields.io/twitter/follow/maonasteroid?logo=twitter&style=for-the-badge" alt="felttouh" /></a> </p>
 
 - 🌱 I’m currently learning **Django, jQuery**
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/lunarhalf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lunarhalf" height="30" width="40" /></a>
-<a href="https://twitter.com/namedbatman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felttouh" height="30" width="40" /></a>
+<a href="https://twitter.com/man on asteriod" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felttouh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akarohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akarohit" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/nine-pi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="nine-pi" height="30" width="40" /></a>
 <a href="https://instagram.com/rawhitjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rawhitjha" height="30" width="40" /></a>
